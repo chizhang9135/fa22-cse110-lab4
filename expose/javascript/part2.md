@@ -56,7 +56,7 @@
 
 10. What will happen at line 12 and why? If the code causes an error, explain why.
     >3\
-    Because the variable length is declared with let in the function, which is visible inside the function. So it will print the length of the array.
+    Because the variable length is declared with const in the function, which is visible inside the function and it is not mordify since assigned. So it will print the length of the array.
 
     <br>
 
