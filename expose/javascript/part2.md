@@ -180,7 +180,7 @@
     <br>
 
 19. What is the output of the above code? 
-    > Output:\
+    > Output:
     ```
     1
     4
