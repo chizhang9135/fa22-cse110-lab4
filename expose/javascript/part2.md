@@ -161,3 +161,14 @@
 15. Explain the difference between the == and === operators.
     >== (loosely) will try to do type conversion before comparing the values.\
     === (strictly) will not do type conversion, it will compare the values and the types.
+
+    <br>
+
+16. In part2-question16.js
+
+    <br>
+
+17. If the function above is called with the following parameters modifyArray([1,2,3], doSomething), what will be the result? Briefly walk through how you arrived at that result. (This should be in your part2.md). Here we are passing in a function as a parameter, however we can also return a function from another function just as easily, you're encouraged to play around with callbacks as they are used heavily in frontend JS development. 
+    >[ 2, 4, 6 ]\
+    The parameter of modifyArray is an array and a function.\
+    input array is [ 1, 2, 3 ], the callback function is doSomething will double the input. After the for loop, the output array is [ 2, 4, 6 ].
