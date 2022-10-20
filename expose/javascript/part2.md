@@ -172,3 +172,26 @@
     >[ 2, 4, 6 ]\
     The parameter of modifyArray is an array and a function.\
     input array is [ 1, 2, 3 ], the callback function is doSomething will double the input. After the for loop, the output array is [ 2, 4, 6 ].
+
+    <br>
+
+18. In part2-question18.js
+
+    <br>
+
+19. What is the output of the above code? 
+    > Output:\
+    ```
+    1
+    4
+    3
+    2
+    ```
+    Explanation:\
+    The first output will is 1, there is no delay\ 
+    The second output is 4, since there is no dalay and it's after 1.\
+    The third output is 3 since the delay is 0.\
+    The last output is 2 since the delay is 1000
+
+     <br>
+
