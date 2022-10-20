@@ -84,20 +84,20 @@
     ```
     write the notation for:
 - A. Accessing the value of the name property in the student object
-    >console.log(student.name);
+    >student.name
 - B. Accessing the value of the Grad Year property in the student object
-    >console.log(student['Grad Year']);
+    >student['Grad Year']
 - C. Calling the function for the greeting property in the student object
-    >student.greeting();
+    >student.greeting()
 - D. Accessing the name property of the object in the Favorite Teacher property in student
-    >console.log(student['Favorite Teacher'].name);
+    >student['Favorite Teacher'].name
 - E. Access index zero in the array of the courseLoad property of the student object
-    >console.log(student.courseLoad[0]);
+    >student.courseLoad[0]
 
 
     <br>
 
-13.  Arithmetic
+1.   Arithmetic
 - A. ‘3’ + 2
   >32\
     Because since the first operand is a string, the second operand will be converted to a string as well. So it will be 32.
@@ -132,7 +132,7 @@
 
     <br>
 
-14. Comparison    
+1.  Comparison    
 - A. ‘2’ > 1
     >true\
     Since the first operand is a string, the second operand will be converted to a number. So it will be true.
